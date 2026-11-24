@@ -1,7 +1,7 @@
 [
   {
-    "ForgeVersion": "neoforge-21.1.265",
-    "ForgeLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.265/neoforge-21.1.265-installer.jar"
+    "InstallVersion": "neoforge-21.1.265",
+    "InstallLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.265/neoforge-21.1.265-installer.jar"
   },
   {
     "FileName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
